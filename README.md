@@ -182,12 +182,8 @@ Add database for persistent history
 
 Include source credibility analysis
 
-👨‍💻 Author
-Jasim Ali
-BS (Information Technology)
-Machine Learning | NLP | Cybersecurity Enthusiast
+## 👨‍💻 Author <a name="author"></a>
+**Yasir Ali** | IT Enthusiast 
 
 [![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YasirAli-21)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasisahito)
-
-
