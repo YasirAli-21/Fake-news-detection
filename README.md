@@ -1,4 +1,6 @@
 # 📰 Fake News Detection using Machine Learning & NLP
+![CI](https://github.com/YasirAli-21/Fake-news-detection/actions/workflows/python-ci.yml/badge.svg?branch=master)
+
 
 An end-to-end **Fake News Detection system** that classifies news articles as **Real** or **Fake** using **Natural Language Processing (NLP)** and **Machine Learning**.  
 The project includes data preprocessing, model training, and an **interactive Streamlit web application** for real-time predictions.
